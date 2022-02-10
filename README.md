@@ -1,3 +1,3 @@
 Matthew Wright, CPA, PSM, ACA
 
-Chartered Accountant + deep-learning artificial intelligence engineer with a Python focus
+Chartered Accountant + Python engineer who enjoys coding deep-learning artificial intelligence 
